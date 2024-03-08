@@ -1,0 +1,23 @@
+{
+	"name": "prevent-screen-off",
+	"version": "1.0.0",
+	"description": "Prevent screen off by moving pointer with small margin",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/UzairAl94/prevent-screen-off.git"
+	},
+	"author": "uzair alam",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/UzairAl94/prevent-screen-off/issues"
+	},
+	"homepage": "https://github.com/UzairAl94/prevent-screen-off#readme",
+	"dependencies": {
+		"robotjs": "^0.6.0"
+	}
+}
