@@ -11,7 +11,7 @@ function moveCursor() {
 }
 
 // Interval in milliseconds to move the cursor
-const intervalMs = 3000; // Adjust as needed
+const intervalMs = 30000; // Adjust as needed
 
 // Set an interval to move the cursor
 const intervalId = setInterval(moveCursor, intervalMs);
